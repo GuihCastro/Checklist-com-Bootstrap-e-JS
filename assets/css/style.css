@@ -1,0 +1,24 @@
+    /* Cortar o texto quando a checkbox estiver marcada */
+    .form-check-label.checked {
+        text-decoration: line-through;
+    }
+
+    .btn-sm {
+        padding: 0.2rem 0.5rem;
+        font-size: 0.875rem;
+    }
+
+    .form-control-sm {
+        padding: 0.25rem 0.5rem;
+        font-size: 0.875rem;
+    }
+
+    .container {
+        max-width: 30%;
+    }
+
+    .form-check-input[type="checkbox"] {
+        width: 15px;
+        height: 15px;
+        border-radius: 50%;
+    }
